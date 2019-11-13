@@ -35,4 +35,7 @@ Runs the model on a new dataset.
 ### loadMEdataset.py
 Loads the dicom data into a npy array for the deepfat_preparedata.py program above. You might want to modify this as it is at the moment tailored for a custom MR sequence.
 
+# Acknowledgments
+This project was supported by the [SNF](http://www.snf.ch/) (grant number 320030_172876)
+
 > Written with [StackEdit](https://stackedit.io/).
